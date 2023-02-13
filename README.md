@@ -26,7 +26,7 @@ Two questions from Assignment #1:
 
 ##### Question 1:
 
-![](assets/20230213_140933_project1-demo1.png)
+![](assets/project1-demo1.png)
 
 ##### Question 2:
 
