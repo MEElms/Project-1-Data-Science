@@ -74,7 +74,7 @@ The most popular event was Individual Campus visits at **31.65%** and the least 
 
 #### Insights
 
-The information above can be utilized to cancel unnescessary events and bulster the most popular ones. As well as improve diversity among the students within the IT department, hopefully branching to the IT space as a whole.
+The information above can be utilized to cancel unnescessary events and bulster the most popular ones. As well as improve diversity among the students within the IT department, hopefully branching to the IT space as a whole. This information could be used to branch other departments and programs to show students how important computers are in their fields of study.
 
 
 #### Sources:
