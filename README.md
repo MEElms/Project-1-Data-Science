@@ -30,41 +30,41 @@ Two questions from Assignment #1:
 
 ##### Question 2:
 
-![](assets/20230213_141207_project1-demo2.png)
+![](assets/project1-demo2.png)
 
 ##### Question 3:
 
-![](assets/20230213_141223_project1-demo3.png)
+![](assets/project1-demo3.png)
 
 ##### Question 4:
 
-![](assets/20230213_141233_project1-demo4.png)
+![](assets/project1-demo4.png)
 
 #### Disaggregation of data
 
-######* What percentage of caucasian under the age of 25 taking each of the introductory IT classes?
+###### What percentage of caucasian under the age of 25 taking each of the introductory IT classes?
 
 ![](assets/20230213_143249_project1-dis1.png)
 
 The chart shows what percentage of genders of caucasian individuals under 25 are taking IT related degrees
 
-######* How many/percentage of causasians under the age of 25 are enrolled in each program at CCM that are taking introductory IT classes?
+###### How many/percentage of causasians under the age of 25 are enrolled in each program at CCM that are taking introductory IT classes?
 
-![](assets/20230213_143411_project1-dis2.png)
+![](assets/project1-dis2.png)
 
 ##### Two questions from Assignment #1:
 
-######* What is the gender ratio between the different courses?
+###### What is the gender ratio between the different courses?
 
-![](assets/20230213_143406_project1-dis3.png)
+![](assets/project1-dis3.png)
 
 This chart shows the percentage of males, females, non-binary and no identity individuals in the four IT Classes.
 
 Males dominated every class with women and non-binary making up the minority. This information can be useful to allow better representation of minority groups in the IT World!
 
-######* What events/activities had the most and least participants?
+###### What events/activities had the most and least participants?
 
-![](assets/20230213_143848_project1-dis4.png)
+![](assets/project1-dis4.png)
 
 This chart depicts how many people who took the survey went to certain event prior to attending County College of Morris.
 
@@ -77,5 +77,5 @@ The information above can be utilized to cancel unnescessary events and bulster 
 
 #### Sources:
 
-* [](https://docs.google.com/spreadsheets/d/14SDbvSAjEUroPHEJDJbzoeSkspnBRT1Fu-Kxg_1xOKc/edit#gid=1281285375)
+* [Google Sheets](https://docs.google.com/spreadsheets/d/14SDbvSAjEUroPHEJDJbzoeSkspnBRT1Fu-Kxg_1xOKc/edit#gid=1281285375)
 * [](https://)
