@@ -1,16 +1,16 @@
 # Project 1 - Data Science Programming
 
 
-#### Questions:
+## Questions:
 
-###### Basic Demographics
+### Basic Demographics
 
 1. How many students from each different class responded to the survey?
 2. What are the gender percentages?
 3. What is the racial/ethnic diversity? For those students selecting more than one race/ethnicity, assign multi-racial to their category.
 4. What is the age distribution for the survey?
 
-###### Disaggregation of data
+### Disaggregation of data
 
 1. What percentage of caucasian under the age of 25 taking each of the introductory IT classes?
 2. How many/percentage of causasians under the age of 25 are enrolled in each program at CCM that are taking introductory IT classes?
