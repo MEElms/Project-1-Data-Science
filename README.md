@@ -44,13 +44,15 @@ Two questions from Assignment #1:
 
 ###### What percentage of caucasian under the age of 25 taking each of the introductory IT classes?
 
-![](assets/20230213_143249_project1-dis1.png)
+![](assets/project1-dis1.png)
 
-The chart shows what percentage of genders of caucasian individuals under 25 are taking IT related degrees
+The chart shows what percentage of genders of caucasian individuals under 25 are taking IT related degrees. This shows among caucasians under 25, males are the majority.
 
 ###### How many/percentage of causasians under the age of 25 are enrolled in each program at CCM that are taking introductory IT classes?
 
 ![](assets/project1-dis2.png)
+
+This chart shows how many and what percentage of caucasian and under the age of 25 are taking different programs at CCM. It shows that most that filled out the survey are taking either Computer Science, Information Technology or Mechanical Engineering. This information could be used to branch other departments and programs to show students how important computers are in their fields of study.
 
 ##### Two questions from Assignment #1:
 
@@ -78,4 +80,3 @@ The information above can be utilized to cancel unnescessary events and bulster 
 #### Sources:
 
 * [Google Sheets](https://docs.google.com/spreadsheets/d/14SDbvSAjEUroPHEJDJbzoeSkspnBRT1Fu-Kxg_1xOKc/edit#gid=1281285375)
-* [](https://)
