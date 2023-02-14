@@ -1,16 +1,15 @@
 # Project 1 - Data Science Programming
 
+#### Questions:
 
-## Questions:
-
-### Basic Demographics
+###### Basic Demographics
 
 1. How many students from each different class responded to the survey?
 2. What are the gender percentages?
 3. What is the racial/ethnic diversity? For those students selecting more than one race/ethnicity, assign multi-racial to their category.
 4. What is the age distribution for the survey?
 
-### Disaggregation of data
+###### Disaggregation of data
 
 1. What percentage of caucasian under the age of 25 taking each of the introductory IT classes?
 2. How many/percentage of causasians under the age of 25 are enrolled in each program at CCM that are taking introductory IT classes?
@@ -26,37 +25,49 @@ Two questions from Assignment #1:
 
 ##### Question 1:
 
+###### "Number of students separated by ethnicity"
+
 ![](assets/project1-demo1.png)
 
 ##### Question 2:
+
+###### "Number of students separated by gender"
 
 ![](assets/project1-demo2.png)
 
 ##### Question 3:
 
+###### "Number of students separated by age group"
+
 ![](assets/project1-demo3.png)
 
 ##### Question 4:
+
+###### "Number of students separated by Introductory IT courses, currently enrolled in"
 
 ![](assets/project1-demo4.png)
 
 #### Disaggregation of data
 
-###### What percentage of caucasian under the age of 25 taking each of the introductory IT classes?
+###### Question: What percentage of caucasian under the age of 25 taking each of the introductory IT classes?
+
+###### "Percentage of Caucasian students, under the age of 25, taking IT related degrees at CCM"
 
 ![](assets/project1-dis1.png)
 
-The chart shows what percentage of genders of caucasian individuals under 25 are taking IT related degrees. This shows among caucasians under 25, males are the majority.
+The chart shows what percentage of genders of caucasian individuals under 25 are taking IT related degrees.
 
-###### How many/percentage of causasians under the age of 25 are enrolled in each program at CCM that are taking introductory IT classes?
+###### Question: How many/percentage of causasians under the age of 25 are enrolled in each program at CCM that are taking introductory IT classes?
+
+###### "Majors enrolled in by Caucasian students under the age of 25 who are also taking a Introductory IT class"
 
 ![](assets/project1-dis2.png)
 
-This chart shows how many and what percentage of caucasian and under the age of 25 are taking different programs at CCM. It shows that most that filled out the survey are taking either Computer Science, Information Technology or Mechanical Engineering. This information could be used to branch other departments and programs to show students how important computers are in their fields of study.
-
 ##### Two questions from Assignment #1:
 
-###### What is the gender ratio between the different courses?
+###### Question: What is the gender ratio between the different courses?
+
+###### "Composition of genders for each introductory IT class at CCM"
 
 ![](assets/project1-dis3.png)
 
@@ -64,7 +75,9 @@ This chart shows the percentage of males, females, non-binary and no identity in
 
 Males dominated every class with women and non-binary making up the minority. This information can be useful to allow better representation of minority groups in the IT World!
 
-###### What events/activities had the most and least participants?
+###### Question: What events/activities had the most and least participants?
+
+###### "Number of students who attended or did not attend certain events prior to attending CCM"
 
 ![](assets/project1-dis4.png)
 
@@ -74,9 +87,8 @@ The most popular event was Individual Campus visits at **31.65%** and the least 
 
 #### Insights
 
-The information above can be utilized to cancel unnescessary events and bulster the most popular ones. As well as improve diversity among the students within the IT department, hopefully branching to the IT space as a whole. This information could be used to branch other departments and programs to show students how important computers are in their fields of study.
-
+The information above can be utilized to cancel unnescessary events and bulster the most popular ones. As well as improve diversity among the students within the IT department, hopefully branching to the IT space as a whole.
 
 #### Sources:
 
-* [Google Sheets](https://docs.google.com/spreadsheets/d/14SDbvSAjEUroPHEJDJbzoeSkspnBRT1Fu-Kxg_1xOKc/edit#gid=1281285375)
+* [](https://docs.google.com/spreadsheets/d/14SDbvSAjEUroPHEJDJbzoeSkspnBRT1Fu-Kxg_1xOKc/edit#gid=1281285375)
