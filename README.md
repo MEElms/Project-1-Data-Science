@@ -91,4 +91,4 @@ The information above can be utilized to cancel unnescessary events and bulster 
 
 #### Sources:
 
-* [](https://docs.google.com/spreadsheets/d/14SDbvSAjEUroPHEJDJbzoeSkspnBRT1Fu-Kxg_1xOKc/edit#gid=1281285375)
+* [Google Sheets](https://docs.google.com/spreadsheets/d/14SDbvSAjEUroPHEJDJbzoeSkspnBRT1Fu-Kxg_1xOKc/edit#gid=1281285375)
